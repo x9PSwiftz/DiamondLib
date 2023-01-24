@@ -9,4 +9,4 @@ Can use diamond hub script in discord
 
 Diamond Hub - [Discord](https://discord.gg/5YtWBUVYvR)
 
-![UI](https://cdn.discordapp.com/attachments/986083142702071829/1066727934720737310/326757086_494204965982255_2253907637087721705_n.png)
+![UI](https://cdn.discordapp.com/attachments/992767456714182686/1067438567523106826/bugs-bunny-145747.jpg)
