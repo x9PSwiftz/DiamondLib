@@ -1,5 +1,5 @@
-# Diamond Hub Lib
-UI Diamond Hub lib by [9PASA](https://discord.com/users/884287121882480660)
+# Diamond Lib
+UI Diamond lib by [9PASA](https://discord.com/users/884287121882480660)
 
 super thank for [Linoria](https://lindseyhost.com)
 
